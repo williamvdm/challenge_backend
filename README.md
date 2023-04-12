@@ -33,7 +33,7 @@ Symfony/CLI: in command prompt: scoop install symfony-cli
 12. Open hier een terminal (of open het project in phpstorm en open daar een terminal)
 13. Run composer install
 14. Open de XAMPP control panel C:\xampp\xamp-control.exe
-15. Klik op start bij mysql
+15. Klik op start bij mysql en apache
 16. Om de database te installeren, open de challenge_backend map in een command prompt (of in phpstorm > onderaan console openen).
 17. Voer dit in: ```php bin/console doctrine:database:create```
 18. Druk op enter
